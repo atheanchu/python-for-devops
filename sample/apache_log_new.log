@@ -1,5 +1,0 @@
-127.0.0.1 - jinhwan [03/Aug/2023:10:15:25 +0000] "GET /index.html HTTP/1.1" 200 3548
-192.168.1.1 - jeongeuun [03/Aug/2023:10:20:12 +0000] "GET /images/logo.png HTTP/1.1" 304 0
-10.0.0.2 - jinhwan [03/Aug/2023:10:25:41 +0000] "POST /submit_form HTTP/1.1" 302 220
-172.16.0.1 - leah [03/Aug/2023:10:30:18 +0000] "GET /about.html HTTP/1.1" 200 1805
-192.168.2.2 - jinhwan [03/Aug/2023:10:35:57 +0000] "GET /styles/main.css HTTP/1.1" 200 1124
